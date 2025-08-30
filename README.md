@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ASAD RASHEED</h1>
 <h3 align="center">A passionate Software Engineer Student and frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=ai%20coding%20animated&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwi82Ne66rKPAxU5Q6QEHVH_JRoQM3oECCQQAA..i&w=680&h=428&hcb=2&itg=1&ved=2ahUKEwi82Ne66rKPAxU5Q6QEHVH_JRoQM3oECCQQAA" >
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 # 👨‍💻 About Me
 
 I'm a **Software Engineering** student with a passion for frontend web development. I love transforming design concepts into interactive, efficient, and responsive websites using HTML, CSS, JavaScript, and modern frameworks. Currently, I'm diving into **Full Stack Development** at **SMIT**, expanding my skills in both backend and frontend technologies. I'm always up for learning new tools and improving my coding practices to build great user experiences.
